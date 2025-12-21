@@ -1,20 +1,20 @@
-# Hi, I’m Daksh 👋
+# Hi, I’m Daksh<img src="https://i.gifer.com/4AIB.gif" alt="👋" width="30"> I like turning messy problems into working solutions.   
 
-I’m a student interested in **Machine Learning and Data Structures & Algorithms**, currently building a strong foundation for **ML and SDE roles**, with a long-term interest in **research-oriented internships and academia**.
+
+>*I’m a student interested in **Machine Learning and Data Structures & Algorithms**, currently building a strong foundation for **ML and SDE roles**, with a long-term interest in **research-oriented internships and academia**.
 Undergraduate student at IIT Kanpur.
-I like working on problems where the data is imperfect, assumptions break, and careful reasoning actually matters.
+I like working on problems where the data is imperfect, assumptions break, and careful reasoning actually matters.*
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTYyODFibHFpaGdteGdqNjN5NGd4bjV6eXBnNzJwc2t4bGwxendyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hWSQvXbDDh8rlnoLOt/giphy.gif" alt="🧭" width="84" height="84"> Current Focus
-
-- Strengthening problem-solving and **DSA using C++**
-- Building **end-to-end ML projects** with clean preprocessing and honest evaluation
-- Understanding *why* models work, not just how to train them
+## **Current Focus** <img src="https://i.gifer.com/YKcP.gif" alt="🧭" width="46" height="88"> 
+>- Building **end-to-end ML projects** with clean preprocessing and honest evaluation
+>- Strengthening problem-solving and **DSA using C++**
+>- Understanding *why* models work, not just how to train them
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🚀 Featured Project
+## **Featured Project** <img src="https://i.gifer.com/75ez.gif" alt="👋" width="38">
 
 ### 🌫️ Delhi AQI Index Prediction  
 **Spatio-Temporal Air Quality Forecasting using Machine Learning**
@@ -41,7 +41,7 @@ https://github.com/DakshSaijwal/Delhi_AQI_index_prediction
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🧠 How I Think About ML
+## How I Think About ML <img src="https://i.gifer.com/1qsy.gif" width="40">
 
 - Data quality and preprocessing matter more than fancy models
 - Model accuracy is meaningless without correct validation
@@ -50,7 +50,7 @@ https://github.com/DakshSaijwal/Delhi_AQI_index_prediction
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🛠️ Skills Snapshot
+## Skills Snapshot <img src="https://i.gifer.com/Vg7.gif" width ="50" height ="55">
 
 - **Languages:** C++, Python
 - **Core Strengths:** Logic building, problem-solving  
