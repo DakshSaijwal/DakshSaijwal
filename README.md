@@ -1,8 +1,8 @@
 # Hi, I’m Daksh<img src="https://i.gifer.com/4AIB.gif" alt="👋" width="30"> I like turning messy problems into working solutions.   
 
 
->*I’m a student interested in **Machine Learning and Data Structures & Algorithms**, currently building a strong foundation for **ML and SDE roles**, with a long-term interest in **research-oriented internships and academia**.
-Undergraduate student at IIT Kanpur.
+>*I’m a student building a strong foundation in **Machine Learning** and **DSA**, aiming for **ML/SDE roles** and **research-oriented internships**.
+Undergraduate student at **IIT Kanpur**.
 I like working on problems where the data is imperfect, assumptions break, and careful reasoning actually matters.*
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
