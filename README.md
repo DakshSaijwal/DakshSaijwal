@@ -14,27 +14,22 @@ I like working on problems where the data is imperfect, assumptions break, and c
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## **Featured Project** <img src="https://i.gifer.com/75ez.gif" alt="👋" width="38">
 
-### 🌫️ Delhi AQI Index Prediction  
-**Spatio-Temporal Air Quality Forecasting using Machine Learning**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DakshSaijwal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
 
-My first full-scale ML project, focused on predicting major air pollutants in Delhi using station-level data.
 
-**What makes this project meaningful to me**
-- Real-world data preprocessing with severe missingness
-- Hybrid imputation strategy:
-  - Linear interpolation for short gaps
-  - Kalman filtering for medium temporal gaps
-  - Inverse Distance Weighting (IDW) for long spatial gaps
-- Time-aware feature engineering (lags, rolling windows)
-- Leakage-safe, time-based train–test evaluation
-- Strong predictive performance using tree-based models
 
-**Tech & Tools**
-- Python, Pandas, NumPy
-- Scikit-learn, XGBoost, LightGBM, Kal
-- Matplotlib for analysis and visualization
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Top Repositories
+
+<a href="https://github.com/DakshSaijwal/Delhi_AQI_index_prediction">
+  <img
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=DakshSaijwal&repo=Delhi_AQI_index_prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+  />
+</a>
+
+<br clear="both" />
 
 🔗 Repository:  
 https://github.com/DakshSaijwal/Delhi_AQI_index_prediction
@@ -68,7 +63,8 @@ https://github.com/DakshSaijwal/Delhi_AQI_index_prediction
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##* 📫 **How to reach me:**
+## 📫 **How to reach me:**
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:-dakshsaijwal06@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-saijwal/)
 
