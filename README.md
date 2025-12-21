@@ -4,15 +4,15 @@ I’m a student interested in **Machine Learning and Data Structures & Algorithm
 Undergraduate student at IIT Kanpur.
 I like working on problems where the data is imperfect, assumptions break, and careful reasoning actually matters.
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🧭 Current Focus
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTYyODFibHFpaGdteGdqNjN5NGd4bjV6eXBnNzJwc2t4bGwxendyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hWSQvXbDDh8rlnoLOt/giphy.gif" alt="🧭" width="84" height="84"> Current Focus
 
 - Strengthening problem-solving and **DSA using C++**
 - Building **end-to-end ML projects** with clean preprocessing and honest evaluation
 - Understanding *why* models work, not just how to train them
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Featured Project
 
@@ -39,7 +39,7 @@ My first full-scale ML project, focused on predicting major air pollutants in De
 🔗 Repository:  
 https://github.com/DakshSaijwal/Delhi_AQI_index_prediction
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🧠 How I Think About ML
 
@@ -48,7 +48,7 @@ https://github.com/DakshSaijwal/Delhi_AQI_index_prediction
 - Time series problems deserve respect for causality and temporal order
 - Learning is iterative — each project should leave you sharper than before
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Skills Snapshot
 
@@ -57,7 +57,7 @@ https://github.com/DakshSaijwal/Delhi_AQI_index_prediction
 - **ML:** Data preprocessing, feature engineering, model training  
 - **Actively Improving:** Data Structures & Algorithms, System Design
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📌 What’s Next (Next 6 Months)
 
@@ -66,7 +66,7 @@ https://github.com/DakshSaijwal/Delhi_AQI_index_prediction
 - Better documentation and experiment tracking
 - Exploring research-style problem formulation
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📫 Connect With Me
 
