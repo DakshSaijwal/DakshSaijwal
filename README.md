@@ -1,4 +1,4 @@
-# Hi, I’m Sage 👋
+# Hi, I’m Daksh 👋
 
 I’m a student interested in **Machine Learning and Data Structures & Algorithms**, currently building a strong foundation for **ML and SDE roles**, with a long-term interest in **research-oriented internships and academia**.
 Undergraduate student at IIT Kanpur.
