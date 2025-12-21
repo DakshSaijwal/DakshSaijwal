@@ -68,10 +68,9 @@ https://github.com/DakshSaijwal/Delhi_AQI_index_prediction
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/daksh-saijwal-2230352b6/
-- Email: dakshsaijwal06@gmail.com
+##* 📫 **How to reach me:**
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:-dakshsaijwal06@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-saijwal/)
 
 I’m early in the journey, but serious about the craft.
 
