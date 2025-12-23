@@ -31,9 +31,6 @@ I like working on problems where the data is imperfect, assumptions break, and c
 
 <br clear="both" />
 
-🔗 Repository:  
-https://github.com/DakshSaijwal/Delhi_AQI_index_prediction
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## How I Think About ML <img src="https://i.gifer.com/1qsy.gif" width="40">
