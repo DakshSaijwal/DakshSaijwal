@@ -22,6 +22,15 @@ I like working on problems where the data is imperfect, assumptions break, and c
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Top Repositories
 
+<a href="https://github.com/DakshSaijwal/scheme_suggestor_convolve">
+  <img
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=DakshSaijwal&repo=scheme_suggestor_convolve&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+  />
+</a>
+
+<br clear="both" />
+
 <a href="https://github.com/DakshSaijwal/Delhi_AQI_index_prediction">
   <img
     width="45%"
@@ -30,6 +39,8 @@ I like working on problems where the data is imperfect, assumptions break, and c
 </a>
 
 <br clear="both" />
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
