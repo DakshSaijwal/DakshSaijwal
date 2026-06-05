@@ -73,7 +73,7 @@ I like working on problems where the data is imperfect, assumptions break, and c
 
 ## 📫 **How to reach me:**
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:-dakshsaijwal06@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakshsaijwal06@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-saijwal/)
 
 I’m early in the journey, but serious about the craft.
