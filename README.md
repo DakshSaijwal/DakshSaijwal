@@ -1,4 +1,4 @@
-# Hi, I’m Daksh<img src="https://i.gifer.com/4AIB.gif" alt="👋" width="30"> I like turning messy problems into working solutions.   
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f73a7563-3e24-4660-9e7d-985f792577ed" /># Hi, I’m Daksh<img src="https://i.gifer.com/4AIB.gif" alt="👋" width="30"> I like turning messy problems into working solutions.   
 
 
 >*I’m a student building a strong foundation in **Machine Learning** and **DSA**, aiming for **ML/SDE roles** and **research-oriented internships**.
@@ -15,7 +15,7 @@ I like working on problems where the data is imperfect, assumptions break, and c
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DakshSaijwal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
+![Top Languages](https://github-readme-stats-one-flax-75.vercel.app/api/top-langs/?username=DakshSaijwal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
 
 
 
@@ -25,7 +25,7 @@ I like working on problems where the data is imperfect, assumptions break, and c
 <a href="https://github.com/DakshSaijwal/scheme_suggestor_convolve">
   <img
     width="45%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=DakshSaijwal&repo=scheme_suggestor_convolve&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+    src="https://github-readme-stats-one-flax-75.vercel.app/api/pin/?username=DakshSaijwal&repo=scheme_suggestor_convolve&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
   />
 </a>
 
@@ -34,7 +34,7 @@ I like working on problems where the data is imperfect, assumptions break, and c
 <a href="https://github.com/DakshSaijwal/Delhi_AQI_index_prediction">
   <img
     width="45%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=DakshSaijwal&repo=Delhi_AQI_index_prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+    src="https://github-readme-stats-one-flax-75.vercel.app/api/pin/?username=DakshSaijwal&repo=Delhi_AQI_index_prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
   />
 </a>
 
