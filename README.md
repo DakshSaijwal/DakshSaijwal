@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f73a7563-3e24-4660-9e7d-985f792577ed" /># Hi, I’m Daksh<img src="https://i.gifer.com/4AIB.gif" alt="👋" width="30"> I like turning messy problems into working solutions.   
+# Hi, I’m Daksh<img src="https://i.gifer.com/4AIB.gif" alt="👋" width="30"> I like turning messy problems into working solutions.   
 
 
 >*I’m a student building a strong foundation in **Machine Learning** and **DSA**, aiming for **ML/SDE roles** and **research-oriented internships**.
