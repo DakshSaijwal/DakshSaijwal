@@ -1,10 +1,7 @@
-<!-- Profile card: auto-swaps between GitHub dark and light themes -->
+<!-- Animated terminal profile card (generated with gifos) -->
 <div align="center">
   <a href="https://github.com/DakshSaijwal">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DakshSaijwal/DakshSaijwal/main/dark_mode.svg">
-      <img alt="Daksh Saijwal — Always Learning" src="https://raw.githubusercontent.com/DakshSaijwal/DakshSaijwal/main/light_mode.svg" width="100%">
-    </picture>
+    <img alt="daksh@GitHub — terminal profile" src="https://raw.githubusercontent.com/DakshSaijwal/DakshSaijwal/main/output.gif" width="100%">
   </a>
 </div>
 
