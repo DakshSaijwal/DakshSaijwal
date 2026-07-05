@@ -59,14 +59,6 @@ I like working on problems where the data is imperfect, assumptions break, and c
 - **ML:** Data preprocessing, feature engineering, model training  
 - **Actively Improving:** Data Structures & Algorithms, System Design
 
-----
-
-## 📌 What’s Next (Next 6 Months)
-
-- More ML projects with increasing complexity
-- Stronger DSA fundamentals for SDE roles
-- Better documentation and experiment tracking
-- Exploring research-style problem formulation
 
 ----
 
