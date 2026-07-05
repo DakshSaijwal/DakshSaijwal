@@ -14,21 +14,19 @@
 Undergraduate student at **IIT Kanpur**.
 I like working on problems where the data is imperfect, assumptions break, and careful reasoning actually matters.*
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----
 
 ## **Current Focus** <img src="https://i.gifer.com/YKcP.gif" alt="🧭" width="46" height="88"> 
 >- Building **end-to-end ML projects** with clean preprocessing and honest evaluation
 >- Strengthening problem-solving and **DSA using C++**
 >- Understanding *why* models work, not just how to train them
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----
 
 
 ![Top Languages](https://github-readme-stats-one-flax-75.vercel.app/api/top-langs/?username=DakshSaijwal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
 
 
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----
 ## Top Repositories
 
 <a href="https://github.com/DakshSaijwal/scheme_suggestor_convolve">
@@ -51,16 +49,8 @@ I like working on problems where the data is imperfect, assumptions break, and c
 
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## How I Think About ML <img src="https://i.gifer.com/1qsy.gif" width="40">
-
-- Data quality and preprocessing matter more than fancy models
-- Model accuracy is meaningless without correct validation
-- Time series problems deserve respect for causality and temporal order
-- Learning is iterative — each project should leave you sharper than before
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----
 
 ## Skills Snapshot <img src="https://i.gifer.com/Vg7.gif" width ="50" height ="55">
 
@@ -69,7 +59,7 @@ I like working on problems where the data is imperfect, assumptions break, and c
 - **ML:** Data preprocessing, feature engineering, model training  
 - **Actively Improving:** Data Structures & Algorithms, System Design
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----
 
 ## 📌 What’s Next (Next 6 Months)
 
@@ -78,7 +68,7 @@ I like working on problems where the data is imperfect, assumptions break, and c
 - Better documentation and experiment tracking
 - Exploring research-style problem formulation
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----
 
 ## 📫 **How to reach me:**
 
