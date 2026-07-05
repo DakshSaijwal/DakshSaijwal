@@ -1,3 +1,15 @@
+<!-- Profile card: auto-swaps between GitHub dark and light themes -->
+<div align="center">
+  <a href="https://github.com/DakshSaijwal">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DakshSaijwal/DakshSaijwal/main/dark_mode.svg">
+      <img alt="Daksh Saijwal — Always Learning" src="https://raw.githubusercontent.com/DakshSaijwal/DakshSaijwal/main/light_mode.svg" width="100%">
+    </picture>
+  </a>
+</div>
+
+<br>
+
 # Hi, I’m Daksh<img src="https://i.gifer.com/4AIB.gif" alt="👋" width="30"> I like turning messy problems into working solutions.   
 
 
