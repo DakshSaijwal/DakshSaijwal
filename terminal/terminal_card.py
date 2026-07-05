@@ -5,30 +5,42 @@ import gifos
 
 FFMPEG = os.environ.get("FFMPEG", "ffmpeg")  # override with $FFMPEG or ensure ffmpeg is on PATH
 
-# ---- ASCII cat portrait (from ascii-art.txt) ----
-ART = r"""                                                                                
-                        =                                -                      
-                  %@@@@                                   @@@@#                 
-              =@@@@@@@               @     *               @@@@@@@              
-            @@@@@@@@@@               @#   @@              #@@@@@@@@@@           
-          @@@@@@@@@@@@@@+           *@@@@@@@            -@@@@@@@@@@@@@@         
-        @@@@@@@@@@@@@@@@@@@@@@%-    @@@@@@@@@     .%@@@@@@@@@@@@@@@@@@@@@       
-       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@      
-      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@     
-     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@     
-                   #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                   
-                     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*                    
-                      @*       %@@@@@@@@@@@@@@@@=        #@                     
-                                  :@@@@@@@@@@:                                  
-                                     @@@@@@.                                    
-                                      -@@@                                      
-                                        +                                       .split("\n")
+# ---- ASCII cat silhouette (from ascii-art(1).txt) ----
+ART_RAW = """
+                        =                                -
+                  %@@@@                                   @@@@#
+              =@@@@@@@               @     *               @@@@@@@
+            @@@@@@@@@@               @#   @@              #@@@@@@@@@@
+          @@@@@@@@@@@@@@+           *@@@@@@@            -@@@@@@@@@@@@@@
+        @@@@@@@@@@@@@@@@@@@@@@%-    @@@@@@@@@     .%@@@@@@@@@@@@@@@@@@@@@
+       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+                   #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+                     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*
+                      @*       %@@@@@@@@@@@@@@@@=        #@
+                                  :@@@@@@@@@@:
+                                     @@@@@@.
+                                      -@@@
+                                        +
+"""
 
-# character -> ANSI txt color (yoru). '%' and ' ' become transparent (terminal bg).
-CMAP = {"@": "30", "#": "37", "*": "37", "+": "97", "=": "97", "-": "97"}
+
+def trim(raw):
+    lines = [ln.rstrip() for ln in raw.split("\n")]
+    while lines and not lines[0].strip():
+        lines.pop(0)
+    while lines and not lines[-1].strip():
+        lines.pop()
+    indents = [len(ln) - len(ln.lstrip(" ")) for ln in lines if ln.strip()]
+    left = min(indents) if indents else 0
+    lines = [ln[left:] for ln in lines]
+    width = max((len(ln) for ln in lines), default=0)
+    return lines, width
 
 
 def colorize(art_lines):
+    """Render every non-space glyph as a crisp white silhouette; spaces stay transparent."""
     out = []
     for line in art_lines:
         s, i = "", 0
@@ -38,16 +50,19 @@ def colorize(art_lines):
             while j < len(line) and line[j] == ch:
                 j += 1
             run = line[i:j]
-            if ch in ("%", " "):
+            if ch == " ":
                 s += " " * len(run)
             else:
-                s += f"\x1b[{CMAP[ch]}m" + run
+                s += "\x1b[97m" + run
             i = j
         out.append(s + "\x1b[0m")
     return "\n".join(out)
 
 
-CAT = colorize(ART)
+ART_LINES, ART_W = trim(ART_RAW)
+CAT = colorize(ART_LINES)
+CAT_COL = 2
+STATS_COL = CAT_COL + ART_W + 4
 
 STATS = (
     "\x1b[30;101m daksh@GitHub \x1b[0m\n"
@@ -70,9 +85,9 @@ STATS = (
 
 
 def main():
-    t = gifos.Terminal(940, 560, 18, 16)
+    t = gifos.Terminal(1160, 560, 18, 16)
     t.set_prompt("\x1b[0;91mdaksh\x1b[0m@\x1b[0;93mgifos ~> \x1b[0m")
-    print("ROWS", t.num_rows, "COLS", t.num_cols)
+    print("ROWS", t.num_rows, "COLS", t.num_cols, "ART_W", ART_W, "STATS_COL", STATS_COL)
 
     # --- BIOS / boot ---
     t.gen_text("", 1, count=8)
@@ -116,8 +131,8 @@ def main():
     # --- neofetch output: cat + stats ---
     t.clear_frame()
     t.toggle_show_cursor(False)
-    t.gen_text(CAT, 2, 2)
-    t.gen_text(STATS, 2, 48, count=6, contin=True)
+    t.gen_text(CAT, 2, CAT_COL)
+    t.gen_text(STATS, 3, STATS_COL, count=6, contin=True)
     t.clone_frame(8)
 
     t.gen_prompt(25)
