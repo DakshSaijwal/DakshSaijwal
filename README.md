@@ -34,8 +34,15 @@ I like working on problems where the data is imperfect, assumptions break, and c
 ----
 
 
-![Top Languages](https://github-readme-stats-one-flax-75.vercel.app/api/top-langs/?username=DakshSaijwal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
+## GitHub Status
 
+<div align="center">
+
+<img height="165px" src="https://github-readme-stats-one-flax-75.vercel.app/api/top-langs/?username=DakshSaijwal&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Top Languages"/>
+<img height="165px" src="https://github-readme-stats-one-flax-75.vercel.app/api?username=DakshSaijwal&show_icons=true&include_all_commits=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="General Stats"/>
+<img height="165px" src="https://streak-stats.demolab.com/?user=DakshSaijwal&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b8b&background=1C1917&hide_border=true" alt="Streak Stats"/>
+
+</div>
 
 ----
 ## Top Repositories
@@ -63,20 +70,19 @@ I like working on problems where the data is imperfect, assumptions break, and c
 
 ----
 
-## Skills Snapshot <img src="https://i.gifer.com/Vg7.gif" width ="50" height ="55">
+## Tech Stack
 
-- **Languages:** C++, Python
-- **Core Strengths:** Logic building, problem-solving  
-- **ML:** Data preprocessing, feature engineering, model training  
-- **Actively Improving:** Data Structures & Algorithms, System Design
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nextjs,tailwind,nodejs,express,postgres,mongodb,docker,aws,git,tensorflow,opencv,linux" style="margin: 5px;">
 
 
 ----
 
-## 📫 **How to reach me:**
+## Connect with me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakshsaijwal06@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-saijwal/)
+<a href="mailto:dakshsaijwal06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-Badge"/></a>
+<a href="https://www.linkedin.com/in/daksh-saijwal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn-Badge"/></a>
+<a href="https://codeforces.com/profile/saijwal"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces-Badge"/></a>
+<a href="https://github.com/DakshSaijwal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub-Badge"/></a>
 
 I’m early in the journey, but serious about the craft.
 
