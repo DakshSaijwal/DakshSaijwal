@@ -1,7 +1,7 @@
 <!-- Typing SVG greeting, at the very top -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0891B2&width=900&height=60&lines=%3C+Hello%2C+World!+I+am+Daksh+Saijwal.%2F%3E%3B%3C " alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0891B2&width=900&height=60&lines=%3C+Hello+World!+I+am+Daksh%2F%3E%3B%3C " alt="Typing SVG" / >
   </a>
 </div>
 
