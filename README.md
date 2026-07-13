@@ -1,3 +1,12 @@
+<!-- Typing SVG greeting, at the very top -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0891B2&width=900&height=60&lines=%3C+Hello%2C+World!+I+am+Daksh+Saijwal.%2F%3E%3B%3C+IIT+Kanpur+%C2%B7+SWE+%C2%B7+CP+%C2%B7+ML.%2F%3E" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
 <!-- Animated terminal profile card: native SVG <animate>, no GIF -->
 <div align="center">
   <a href="https://github.com/DakshSaijwal">
@@ -18,22 +27,6 @@
 
 <br>
 
-# Hi, I’m Daksh<img src="https://i.gifer.com/4AIB.gif" alt="👋" width="30"> I like turning messy problems into working solutions.   
-
-
->*I’m a student building a strong foundation in **Machine Learning** and **DSA**, aiming for **ML/SDE roles** and **research-oriented internships**.
-Undergraduate student at **IIT Kanpur**.
-I like working on problems where the data is imperfect, assumptions break, and careful reasoning actually matters.*
-
-----
-
-## **Current Focus** <img src="https://i.gifer.com/YKcP.gif" alt="🧭" width="46" height="88"> 
->- Building **end-to-end ML projects** with clean preprocessing and honest evaluation
->- Strengthening problem-solving and **DSA using C++**
->- Understanding *why* models work, not just how to train them
-----
-
-
 ## GitHub Status
 
 <div align="center">
@@ -45,6 +38,13 @@ I like working on problems where the data is imperfect, assumptions break, and c
 </div>
 
 ----
+
+## **Current Focus** <img src="https://i.gifer.com/YKcP.gif" alt="🧭" width="46" height="88"> 
+>- Building **end-to-end ML projects** with clean preprocessing and honest evaluation
+>- Strengthening problem-solving and **DSA using C++**
+>- Understanding *why* models work, not just how to train them
+----
+
 ## Top Repositories
 
 <a href="https://github.com/DakshSaijwal/scheme_suggestor_convolve">
