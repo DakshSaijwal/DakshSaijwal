@@ -1,8 +1,19 @@
-<!-- Animated terminal profile card (generated with gifos) -->
+<!-- Animated terminal profile card: native SVG <animate>, no GIF -->
 <div align="center">
   <a href="https://github.com/DakshSaijwal">
-    <img alt="daksh@GitHub — terminal profile" src="https://raw.githubusercontent.com/DakshSaijwal/DakshSaijwal/main/output.gif" width="100%">
+    <img alt="daksh@github — terminal profile" src="https://raw.githubusercontent.com/DakshSaijwal/DakshSaijwal/main/profile_card.svg" width="100%">
   </a>
+</div>
+
+<br>
+
+<!-- Snake: eats the contribution graph, regenerated daily by .github/workflows/snake.yml -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DakshSaijwal/DakshSaijwal/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DakshSaijwal/DakshSaijwal/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DakshSaijwal/DakshSaijwal/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
 </div>
 
 <br>
